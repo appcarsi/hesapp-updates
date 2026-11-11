@@ -1,0 +1,11 @@
+{
+  "version": "1.0.9",
+  "mac": {
+    "datei": "Hesapp-1.0.9.dmg",
+    "sha256": "37714f978c05d7118582515689d84b68cd4625f34130a1e643248d3745dbfc7f"
+  },
+  "windows": {
+    "datei": "Hesapp-Setup-1.0.9.exe",
+    "sha256": "7875c51c74b9cd66dd26ed2f7a148b3fa368878358c6df413c64583e0eb1c89d"
+  }
+}
